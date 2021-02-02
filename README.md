@@ -1,4 +1,4 @@
-# MUJI
+# MOCO
 
 ![26153058b40890c056265e09e5b32499](https://user-images.githubusercontent.com/78400219/106559394-ab4ebb80-6568-11eb-848d-067443bb3497.gif)
 
